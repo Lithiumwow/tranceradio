@@ -1,8 +1,9 @@
 /** @type {import('next').NextConfig} */
+/* Keep `basePath` aligned with `siteBasePath` in `lib/site-config.ts`. Project Pages URL: …/tranceradio/ */
 const nextConfig = {
   output: 'export',
-  basePath: '/Trance-24x7',
-  assetPrefix: '/Trance-24x7/',
+  basePath: '/tranceradio',
+  assetPrefix: '/tranceradio/',
   trailingSlash: true,
   typescript: {
     ignoreBuildErrors: true,
