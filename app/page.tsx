@@ -75,7 +75,7 @@ export default function Home() {
       <div className="w-full max-w-md space-y-8">
         <div className="text-center mb-12">
           <h1 className="text-5xl font-bold text-accent mb-2">Trance 24x7</h1>
-          <p className="text-lg text-muted-foreground font-light">Lithiumwow</p>
+          <p className="text-lg text-muted-foreground font-light">Harry Bradrocco</p>
           <a
             href={LANDER_URL}
             className="inline-flex items-center gap-2 mt-3 text-sm text-accent hover:text-accent/80 transition-colors"
